@@ -1,0 +1,27 @@
+name: cooking_recipe_app
+description: A new Flutter project.
+
+publish_to: 'none' # Remove this line if you publish to pub.dev
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=2.12.0 <3.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  provider: ^6.0.1
+
+
+
+  cupertino_icons: ^1.0.2
+
+flutter:
+  assets:
+    - assets/images/cookingbackground.jpg
+    - assets/images/desert.png
+    - assets/images/Maincoursefood.jpg
+    - assets/images/rob-wicks-fDLBn8X_IlU-unsplash.jpg
+    - assets/images/Soupdish.jpg
+    - assets/images/Veganfood.jpg
